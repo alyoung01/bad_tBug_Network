@@ -1,0 +1,33 @@
+Start code...
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The Tracker-Bug Network
+By: Alastair D Young
+ID: ADYOU1 19874650
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+					 Start time= 0.01
+Starting Initalisation:
+Shit I don't know what it does: done
+Camera setup and parameters: done
+kinect camera LED set to: red
+Al's image setup: done
+Al's UART setup: done
+Al's eyeBug variable setup:
+	 Motion Estimation =  ON
+	 Code run on: BB-xM
+	 Number of robots in swarm = 3
+	 eyeBug ID = 0
+Al's eyeBug variable setup: done
+Al's misc setup: done
+Max's setup: done
+					 End time= 0.03
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Starting Main loop
+					 Start time = 0.03
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+					 Start time= 0.03
+active_leds called:
+	 ID: 0
+	 Mask 1 = 4772
+	 Mask 2 = 8838
+	 Mask 3 = 17989
+	 Sending command to eBug via the UART
